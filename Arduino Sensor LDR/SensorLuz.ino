@@ -9,7 +9,7 @@ int LED4 = 9;
 int LED5 = 8;
 
 //Pin analógico para sensor LDR
-int LDR = A0;
+#define LDR A0
 
 void setup()
 {
