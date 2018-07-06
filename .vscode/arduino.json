@@ -1,4 +1,4 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "Arduino Riego\\ArduinoRiego.ino"
+    "sketch": "Arduino Implementaciones SL\\Implementacion1.ino"
 }
