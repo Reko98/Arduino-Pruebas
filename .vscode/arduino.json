@@ -1,4 +1,4 @@
 {
-    "board": "arduino:avr:uno",
+    "board": "arduino:avr:leonardo",
     "sketch": "Arduino Implementaciones SL\\Implementacion1.ino"
 }
